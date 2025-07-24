@@ -24,9 +24,4 @@ The dashboard currently includes a pie chart visualizing the distribution of sal
 - Add other types of visualizations (e.g., bar charts, line charts).
 - Incorporate interactive elements.
 - Connect to a live data source.
-"""
 
-with open('README.md', 'w') as f:
-    f.write(readme_content)
-
-print("README.md file created successfully!")
